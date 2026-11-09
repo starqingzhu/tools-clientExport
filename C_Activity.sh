@@ -14,18 +14,18 @@ current_dir = os.getcwd()
 output_dir = os.path.join(current_dir, 'Datas')
 
 SHEETS_TO_DOWNLOAD = {
-    '__enums__.xlsx': '1Kd3CglueaqM8RdgLFDoxbCAKykJUpu0CPPCnotxg81Q',
-    '__beans__.xlsx': '1k3T0at92NzlVGFhNVf5RmXXlm_Q2ntM3C4vuYAZkmZg',
+    '__enums__.xlsx': '1dm9FYjk556K_3wg6vAGbHwpQLfcDMaUXvuyKgnAeA4Q',
+    '__beans__.xlsx': '1HYkOKp6UOervBs-RsVza0dzAomysOkJAK2mOkx57e_Y',
 }
 
 MULTIPLE_SHEETS_TO_DOWNLOAD = {
     '__tables__.xlsx': {
-        'file_id': '1Pa9dHCknSmttScDyf11MTUVI7lZQimfeUvPWdzE1usM',
+        'file_id': '1D0LEz9-ifodVCdertjGlZ3NMwKG7IfdWpAkyZuAPjrI',
         'sheet_names': ['ActivityConfig']
     }
 }
 
-FOLDER_ID = '1SzjM_qhsrvqvkX40VyyEJPEUlgsKcBj8'
+FOLDER_ID = '1qyrGTaYpp194mahPttGf6ZXfAaF0_vP_'
 
 t_start = time.time()
 
